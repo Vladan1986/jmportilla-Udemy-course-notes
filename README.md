@@ -5,3 +5,5 @@ Check out the Kaggle Titanic Challenge at the following link:
 https://www.kaggle.com/c/titanic-gettingStarted
 
 Note: You'll need to make an account to access the data.
+
+jmportilla Udemy course note
